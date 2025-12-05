@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React project jai ho sanjay suthar ganeshgarh gaurav
+
+          Learn React project jai ho sanjay jai ho jai ho jai ho 
+
         </a>
         <h2>added new commit 12:11</h2>
       </header>
