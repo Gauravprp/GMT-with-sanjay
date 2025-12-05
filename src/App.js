@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React project jai ho sanjay suthar ganeshgarh
+          Learn React project jai ho sanjay suthar ganeshgarh gaurav
         </a>
       </header>
     </div>
