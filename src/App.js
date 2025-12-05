@@ -17,6 +17,7 @@ function App() {
         >
           Learn React project jai ho sanjay suthar ganeshgarh ganganagr
         </a>
+        <h2>added new commit 12:11</h2>
       </header>
     </div>
   );
